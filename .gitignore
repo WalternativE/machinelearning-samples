@@ -328,3 +328,6 @@ ASALocalRun/
 
 # macOS
 .DS_Store
+
+# VSCode Ionide plugin
+.ionide
